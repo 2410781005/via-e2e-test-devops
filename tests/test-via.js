@@ -40,7 +40,7 @@ const dP2M1Ddd = String(datePlus2M1DYears.getDate()).padStart(2, '0');
 const dP2M1Dyyyyy = datePlus2M1DYears.getFullYear();
 const formattedDatedDP2M1D = `${dP2M1Dmm}/${dP2M1Ddd}/${dP2M1Dyyyyy}`;
 
-// Form Page #1
+// Form Page #1 - Enter Vehicle Data
 const makeSelect = Selector('#make');
 const makeOption = makeSelect.find('option');
 
