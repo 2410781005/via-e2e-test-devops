@@ -80,7 +80,7 @@ const hobbieSpeedingLabel = hobbieSpeedingCheckbox.parent('label');
 
 const nextenterproductdata = Selector('#nextenterproductdata')
 
-// Form Page #3
+// Form Page #3 - Enter Product Data
 const startdate = Selector('#startdate')
 
 const insuranceSumSelect = Selector('#insurancesum');
