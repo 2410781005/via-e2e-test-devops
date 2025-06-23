@@ -56,7 +56,7 @@ const listprice = Selector('#listprice')
 const annualmileage = Selector('#annualmileage')
 const nextenterinsurantdata = Selector('#nextenterinsurantdata')
 
-// Form Page #2
+// Form Page #2 - Enter Insurant Data
 const firstname = Selector('#firstname')
 const lastname = Selector('#lastname')
 const birthdate = Selector('#birthdate')
