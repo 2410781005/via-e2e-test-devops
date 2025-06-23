@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "testcafe": "^3.7.2",
+    "testcafe-reporter-junit": "^3.0.2",
+    "testcafe-reporter-xunit": "^2.2.3"
+  }
+}

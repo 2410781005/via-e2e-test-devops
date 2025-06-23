@@ -16,7 +16,12 @@ jobs:
       - run:
           name: TestCafe Tests ausführen
           command: |
-            npx testcafe chrome tests/
+            npx testcafe chrome tests/ -r xunit:report/test-results/testcafe/results.xml 
+
+      - store_test_results:
+          path: report/test-results/testcafe/
+      - store_artifacts:
+          path: report/test-results/testcafe/
 
 workflows:
   run-tests-lokal:

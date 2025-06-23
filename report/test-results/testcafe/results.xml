@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite name="TestCafe Tests: Chrome 137.0.0.0 / Sequoia 15" tests="1" failures="0" skipped="0" errors="0" time="22.109" timestamp="Mon, 23 Jun 2025 16:20:58 GMT" >
+  <testcase classname="Vehicle Insurance Applikations - Test" file="/Users/maxresch/Documents/FH Burgenland/DevOps PT/Horvath/CI-CD_VIA_Pipeline/tests/test-via.js" name="Full Process" time="19.745">
+  </testcase>
+</testsuite>
