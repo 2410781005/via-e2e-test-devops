@@ -222,7 +222,8 @@ const courtesycarOption = courtesycarSelect.find('option')
 
 const nextselectpriceoption = Selector("#nextselectpriceoption");
 
-
+//Birthday Format
+const dateOfBirth = ageToDateOfBirth(tc.age);
 
   test(`${tc.name}`, async t => {
     // Beispielhafte Eingaben
