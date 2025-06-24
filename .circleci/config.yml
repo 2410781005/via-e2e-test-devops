@@ -16,7 +16,7 @@ jobs:
       - run:
           name: TestCafe Tests ausführen
           command: |
-            npx testcafe chrome tests/test-via-short.js -r xunit:report/test-results/testcafe/results.xml 
+            npx testcafe chrome tests/test-via.js -r xunit:report/test-results/testcafe/results.xml 
 
       - store_test_results:
           path: report/test-results/testcafe/
