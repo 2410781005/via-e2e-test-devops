@@ -523,7 +523,7 @@ export const testCases = [
       pricePlatinum: "1,980.00",
       priceUltimate: "3,841.00",
       email: "2410781005@fhb.at",
-      username: "testCase15",
+      username: "testCase16",
       password: "Password01",
       passwordConfirm: "Password01"
     },
