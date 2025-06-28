@@ -1,6 +1,6 @@
 export const testCases = [
     {
-      name: "TC1 – StraightThrough",
+      name: "TC1 – StraightThrough - TEST",
       make: "Ford",
       enginePerformance: 500,
       dateOfManufactor: "dateMinus3years",
