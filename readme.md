@@ -28,7 +28,7 @@ Die Testläufe werden mittels eines Templates ausgeführt das in einer Schleife 
 
 ## Verwendete Software
 
-- GitHub (Repo für die Testsoftware Scripts) https://github.com/2410781005/via-e2e-test-devops/tree/main (private Repo, bitte Benutzer bekanntgeben)
+- GitHub (Repo für die Testsoftware Scripts) https://github.com/2410781005/via-e2e-test-devops/
 
 - CircleCI Cloud (CI/CD Piepline zur Ausführung des ganzen Testprozesses) [https://circleci.com](https://circleci.com)
 
